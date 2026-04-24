@@ -1,0 +1,38 @@
+{
+  "title": "Intrapartum FHR-UC Phase Coupling Analysis (CTU-UHB) — Analysis Pipeline and Independent Reimplementation",
+  "description": "Analysis code, independent reimplementation, per-record feature CSV, aggregated results JSON, and figures for the manuscript \"Early-labour fetal heart rate–uterine contraction phase coupling is elevated in severe intrapartum acidosis and is modulated by contraction frequency\" (Shivhare, 2026). Secondary analysis of the CTU-UHB Intrapartum Cardiotocography Database (n=506). Includes two independent implementations of the full pipeline.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Shivhare, Rishi Arun",
+      "affiliation": "Independent researcher (MBBS Programme, first year)"
+    }
+  ],
+  "keywords": [
+    "cardiotocography",
+    "fetal acidosis",
+    "phase coherence",
+    "Hilbert transform",
+    "intrapartum monitoring",
+    "fetal autonomic regulation",
+    "uterine contractions",
+    "CTU-UHB",
+    "reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://physionet.org/content/ctu-uhb-ctgdb/1.0.0/",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://github.com/LuciferMors/fhr-uc-hypercoupling",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "communities": [],
+  "notes": "CTU-UHB Intrapartum CTG Database is distributed under Open Data Commons Attribution License v1.0; raw waveforms are not redistributed in this archive. Only derived results, code, and figures are included."
+}

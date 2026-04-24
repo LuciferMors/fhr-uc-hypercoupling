@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "Intrapartum FHR-UC Phase Coupling Analysis (CTU-UHB) — Analysis Pipeline and Independent Reimplementation"
+message: "If you use this code, please cite both this archive and the associated manuscript."
+type: software
+authors:
+  - family-names: Shivhare
+    given-names: Rishi Arun
+    email: rishivhare07@gmail.com
+repository-code: "https://github.com/LuciferMors/fhr-uc-hypercoupling"
+license: MIT
+keywords:
+  - cardiotocography
+  - fetal acidosis
+  - phase coherence
+  - Hilbert transform
+  - intrapartum monitoring
+  - fetal autonomic regulation
+  - CTU-UHB
+preferred-citation:
+  type: article
+  title: "Early-labour fetal heart rate–uterine contraction phase coupling is elevated in severe intrapartum acidosis and is modulated by contraction frequency"
+  authors:
+    - family-names: Shivhare
+      given-names: Rishi Arun
+  year: 2026
