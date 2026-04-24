@@ -7,6 +7,11 @@ authors:
     given-names: Rishi Arun
     email: rishivhare07@gmail.com
 repository-code: "https://github.com/LuciferMors/fhr-uc-hypercoupling"
+doi: 10.5281/zenodo.19741807
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.19741807
+    description: "Zenodo archive of v1.0.0 — manuscript-associated release"
 license: MIT
 keywords:
   - cardiotocography

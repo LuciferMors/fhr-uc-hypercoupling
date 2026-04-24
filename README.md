@@ -87,7 +87,7 @@ If you use this code, please cite both the software archive and the dataset:
 
 ```
 Shivhare RA. FHR-UC Phase Coupling Analysis (CTU-UHB). Zenodo. 2026.
-   https://doi.org/10.5281/zenodo.XXXXXXX
+   https://doi.org/10.5281/zenodo.19741807
 
 Chudáček V, Spilka J, Burša M, et al. Open access intrapartum CTG database.
    BMC Pregnancy Childbirth. 2014;14:16.
